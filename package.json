@@ -1,0 +1,23 @@
+{
+  "name": "node-rss-read",
+  "version": "0.0.0",
+  "description": "request and parse a feed",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xingfuryda/node-rss-read.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xingfuryda/node-rss-read/issues"
+  },
+  "homepage": "https://github.com/xingfuryda/node-rss-read",
+  "dependencies": {
+    "express": "^4.7.2",
+    "feed-read": "0.0.1"
+  }
+}
